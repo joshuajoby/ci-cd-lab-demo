@@ -1,0 +1,24 @@
+{
+  "name": "ci-cd-lab-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuajoby/ci-cd-lab-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/joshuajoby/ci-cd-lab-demo/issues"
+  },
+  "homepage": "https://github.com/joshuajoby/ci-cd-lab-demo#readme",
+  "devDependencies": {
+    "jest": "^30.5.2"
+  }
+}
